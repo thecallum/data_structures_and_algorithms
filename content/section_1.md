@@ -5,6 +5,14 @@
 1. A data structure organizes and stores data
 2. Each data structure has strengths and weaknesses
 
+## What are the X main data structures?
+
+- Arrays
+- Lists
+- Stacks
+- Queues
+- Hashtables
+
 ## What is an algorithm?
 
 An algorithm is the steps you must take to complete a task.
